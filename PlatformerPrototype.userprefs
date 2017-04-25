@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerPrototype/ParallaxBackground.cs">
+    <Files>
+      <File FileName="PlatformerPrototype/Game1.cs" Line="59" Column="4" />
+      <File FileName="PlatformerPrototype/Animation.cs" Line="93" Column="4" />
+      <File FileName="PlatformerPrototype/Player.cs" Line="43" Column="1" />
+      <File FileName="PlatformerPrototype/Background.cs" Line="21" Column="4" />
+      <File FileName="PlatformerPrototype/LayeredBackground.cs" Line="28" Column="34" />
+      <File FileName="PlatformerPrototype/Main.cs" Line="1" Column="1" />
+      <File FileName="PlatformerPrototype/Utilities.cs" Line="14" Column="3" />
+      <File FileName="PlatformerPrototype/ParallaxBackground.cs" Line="4" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlatformerPrototype PreferredExecutionTarget="Test1" />
+</Properties>

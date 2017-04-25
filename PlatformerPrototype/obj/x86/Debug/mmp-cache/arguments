@@ -1,0 +1,27 @@
+# Version: 3.2.0.175 (d15-1: a04678c2)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/3.2.0.175/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/3.2.0.175/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/avibrenner/Projects/PlatformerPrototype/PlatformerPrototype/bin/Debug/ \
+	/name:PlatformerPrototype \
+	/profile:4.5 \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.6 \
+	/profiling \
+	/nolink \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/4.8.1/lib/mono/4.5-api/System.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/4.8.1/lib/mono/4.5-api/System.Xml.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/4.8.1/lib/mono/4.5-api/System.Xml.Linq.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/4.8.1/lib/mono/4.5-api/System.Drawing.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/reference/full/Xamarin.Mac.dll \
+	/assembly:/Library/Frameworks/Mono.framework/External/xbuild/MonoGame/v3.0/Assemblies/DesktopGL/MonoGame.Framework.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/4.8.1/lib/mono/4.5-api/System.Core.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/4.8.1/lib/mono/4.5-api/mscorlib.dll \
+	/Users/avibrenner/Projects/PlatformerPrototype/PlatformerPrototype/bin/Debug/PlatformerPrototype.exe \
+	/native-reference:/Users/avibrenner/Projects/PlatformerPrototype/PlatformerPrototype/libSDL2-2.0.0.dylib \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/avibrenner/Projects/PlatformerPrototype/PlatformerPrototype/obj/x86/Debug/mmp-cache \
