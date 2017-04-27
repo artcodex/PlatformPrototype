@@ -1,7 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformerPrototype", "PlatformerPrototype\PlatformerPrototype.csproj", "{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalJam", "SurvivalJam\SurvivalJam.csproj", "{612A9011-3925-49AB-A89D-F5883CDC23F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics MonoGame", "Farseer Physics Engine 3.5\Farseer Physics MonoGame.csproj", "{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SurvivalShared", "SurvivalShared\SurvivalShared.shproj", "{74B3760D-C27A-4B30-A755-957C354234AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +13,13 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}.Debug|x86.ActiveCfg = Debug|x86
-		{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}.Debug|x86.Build.0 = Debug|x86
-		{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}.Release|x86.ActiveCfg = Release|x86
-		{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}.Release|x86.Build.0 = Release|x86
+		{612A9011-3925-49AB-A89D-F5883CDC23F6}.Debug|x86.ActiveCfg = Debug|x86
+		{612A9011-3925-49AB-A89D-F5883CDC23F6}.Debug|x86.Build.0 = Debug|x86
+		{612A9011-3925-49AB-A89D-F5883CDC23F6}.Release|x86.ActiveCfg = Release|x86
+		{612A9011-3925-49AB-A89D-F5883CDC23F6}.Release|x86.Build.0 = Release|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Debug|x86.ActiveCfg = Debug|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Debug|x86.Build.0 = Debug|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Release|x86.ActiveCfg = Release|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

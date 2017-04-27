@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{74B3760D-C27A-4B30-A755-957C354234AE}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>SurvivalShared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Animation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Background.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BaseGameObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Floor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IComponent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IGameObject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LayeredBackground.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ParallaxBackground.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PhysicsSystem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Player.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tile.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Transform2D.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utilities.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PhysicsBody2D.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)BaseComponent.cs" />
+  </ItemGroup>
+</Project>

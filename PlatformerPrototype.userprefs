@@ -1,21 +1,41 @@
-﻿<Properties StartupConfiguration="{64D6FA1A-95BA-4141-B2B4-C1C0C8327E29}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerPrototype/ParallaxBackground.cs">
+﻿<Properties StartupConfiguration="{612A9011-3925-49AB-A89D-F5883CDC23F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SurvivalShared/Player.cs">
     <Files>
-      <File FileName="PlatformerPrototype/Game1.cs" Line="59" Column="4" />
-      <File FileName="PlatformerPrototype/Animation.cs" Line="93" Column="4" />
-      <File FileName="PlatformerPrototype/Player.cs" Line="43" Column="1" />
-      <File FileName="PlatformerPrototype/Background.cs" Line="21" Column="4" />
-      <File FileName="PlatformerPrototype/LayeredBackground.cs" Line="28" Column="34" />
-      <File FileName="PlatformerPrototype/Main.cs" Line="1" Column="1" />
-      <File FileName="PlatformerPrototype/Utilities.cs" Line="14" Column="3" />
-      <File FileName="PlatformerPrototype/ParallaxBackground.cs" Line="4" Column="34" />
+      <File FileName="SurvivalShared/Background.cs" Line="5" Column="25" />
+      <File FileName="SurvivalShared/BaseGameObject.cs" Line="106" Column="17" />
+      <File FileName="SurvivalShared/Floor.cs" Line="6" Column="25" />
+      <File FileName="SurvivalShared/Game1.cs" Line="1" Column="14" />
+      <File FileName="SurvivalShared/IComponent.cs" Line="15" Column="1" />
+      <File FileName="SurvivalShared/IGameObject.cs" Line="7" Column="25" />
+      <File FileName="SurvivalShared/LayeredBackground.cs" Line="7" Column="25" />
+      <File FileName="SurvivalShared/ParallaxBackground.cs" Line="5" Column="25" />
+      <File FileName="SurvivalShared/PhysicsSystem.cs" Line="50" Column="10" />
+      <File FileName="SurvivalShared/Player.cs" Line="48" Column="6" />
+      <File FileName="SurvivalShared/Tile.cs" Line="6" Column="25" />
+      <File FileName="SurvivalShared/Transform2D.cs" Line="28" Column="4" />
+      <File FileName="SurvivalShared/Utilities.cs" Line="17" Column="29" />
+      <File FileName="SurvivalJam/Program.cs" Line="24" Column="3" />
+      <File FileName="SurvivalShared/Animation.cs" Line="108" Column="28" />
+      <File FileName="SurvivalJam/Game1.cs" Line="1" Column="1" />
+      <File FileName="SurvivalShared/PhysicsBody2D.cs" Line="26" Column="4" />
+      <File FileName="SurvivalShared/BaseComponent.cs" Line="22" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlatformerPrototype" expanded="True">
+            <Node name="SurvivalJam" expanded="True" />
+            <Node name="SurvivalShared" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SurvivalJam PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PlatformerPrototype PreferredExecutionTarget="Test1" />
 </Properties>
